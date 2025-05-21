@@ -1,24 +1,22 @@
 # LLM-powered Driving Intelligence Evaluation Framework
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-
 Official implementation of the paper:  
 **"A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation"**  
-*[Authors] | [Conference/Journal] | [Year]*
 
-## 🚀 Framework Overview
+# **Work in Progress**: Full implementation will be uploaded shortly
+
+## Framework Overview
 
 This repository contains the core components for automating driving intelligence evaluation using LLMs:
 '''
 .
-├── driving_context_to_des.py # Preprocessing: Driving context summarization
+├── driving_context_to_des.py # Preprocessing: Driving context summarisation
 ├── evaluation_rag_auto.py # Main evaluation pipeline
 └── (Additional components pending upload)
 '''
 
 
-## 🔧 Key Components
+##  Key Components
 
 ### 1. Driving Context Processor (`driving_context_to_des.py`)
 - **Function**: Ingests raw driving context data and generates structured summaries
